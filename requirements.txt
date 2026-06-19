@@ -1,0 +1,15 @@
+# =============================================================================
+# Raspberry Pi 3 RC Car — Python dependencies
+# =============================================================================
+# Install on the Raspberry Pi with:
+#     pip install -r requirements.txt
+#
+# Note: RPi.GPIO and spidev are usually pre-installed on Raspberry Pi OS.
+#       If not, they are included here to be explicit.
+# =============================================================================
+
+flask>=2.0.0          # Lightweight web framework for the mobile controller UI
+gpiozero>=1.6.2       # High-level GPIO abstraction (motors, LED, MCP3008 ADC)
+rpi-hardware-pwm>=0.1.4  # True hardware PWM for smooth motor speed control
+RPi.GPIO>=0.7.1       # Low-level GPIO backend required by gpiozero on RPi
+spidev>=3.5           # SPI kernel driver used by gpiozero for MCP3008 reads
