@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  A two-wheeled robot car controlled from any phone browser over Wi-Fi, built on a
+  A three-wheeled robot car controlled from any phone browser over Wi-Fi, built on a
   <strong>Raspberry Pi 3</strong> and programmed entirely in <strong>Python</strong>.
   Features real-time obstacle avoidance with an <strong>HC-SR04</strong> ultrasonic sensor,
   automatic LED brightness via an <strong>LDR</strong> and <strong>MCP3008 ADC</strong>,
