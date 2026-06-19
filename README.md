@@ -263,6 +263,13 @@ degree (iMAT) at **Universidad Pontificia Comillas ICAI**, Madrid.
 
 ---
 
+## 🚀 Future Improvements
+- Autonomous navigation
+- Computer vision using OpenCV
+- Object detection with AI models
+- Path planning algorithms
+- ROS 2 integration
+
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE) — feel free to use,
