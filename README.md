@@ -243,18 +243,6 @@ in between        →  linear interpolation
 
 ---
 
-## 📌 Recommended GitHub Topics
-
-Add these under **⚙ Settings → Topics** in your repository to maximise discoverability:
-
-```
-raspberry-pi  raspberry-pi-3  rc-car  robot  robotics  python
-gpio  gpiozero  flask  hc-sr04  ultrasonic-sensor  ldr  mcp3008
-l298n  hardware-pwm  embedded-systems  iot  mobile-controller
-```
-
----
-
 ## 🎓 Academic Context
 
 This project was developed as the final project for the *Electronic Systems* course
